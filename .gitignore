@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/
+
+# local secrets
+.env
+
+# editor
+.DS_Store
+.idea/
+.vscode/
+
+# runtime uploads (以后会用)
+app/storage/uploads/
